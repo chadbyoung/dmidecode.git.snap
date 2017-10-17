@@ -13,6 +13,6 @@ Gremlins, Goblins, or Trolls will appear.
 ## How to install  
 Install the snap that is created using the --devmode option.  
 ## How to run  
-From the command prompt run "dmidecode.dmidecode"
+From the command prompt run "dmidecode.run"
   
 For questions please email <chad_young@dell.com>  
